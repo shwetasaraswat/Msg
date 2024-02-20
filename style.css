@@ -80,8 +80,7 @@ p {
 
 /* #messageState {
 } */
-
-/* @keyframes beat {
+ @keyframes beat {
   0% {
     width: 80px;
   }
@@ -103,7 +102,7 @@ p {
   100% {
     width: 80px;
   }
-} */
+} 
 
 @keyframes openmsg {
   0% {
